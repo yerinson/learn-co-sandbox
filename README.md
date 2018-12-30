@@ -1,1 +1,1 @@
-<img src=
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/FIS_New_Logo.png">
